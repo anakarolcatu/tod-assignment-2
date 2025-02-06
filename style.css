@@ -21,7 +21,7 @@ p {
     height: 372px;
     background-color: #1f2937;
     padding: 12px 140px 96px 140px;
-    gap: 96px;
+    gap: 100px;
 }
 
 .header-navbar, 
@@ -47,7 +47,7 @@ p {
     padding: 0;
     margin: 0;
     display: flex;
-    gap: 16px;
+    gap: 15px;
 }
 
 .navbar li {
@@ -86,7 +86,7 @@ p {
     padding: 6px 24px;
     font-weight: 800;
     font-size: 16px;
-    background-color: rgb(70, 167, 199);
+    background-color: #3882f6;
     color: white;
     border: 0;
     border-radius: 6px;
@@ -131,7 +131,7 @@ p {
 .image-border {
     width: 120px;
     height: 120px;
-    border: 2pt rgb(70, 167, 199) solid;
+    border: 2pt #3882f6 solid;
     border-radius: 12px;
     justify-content: center;
 }
